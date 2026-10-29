@@ -110,8 +110,3 @@ As verificações de qualidade e decisões de cálculo estão em [docs/qualidade
 - Não há integração produtiva, autenticação ou memória conversacional.
 - Este é um projeto de demonstração técnica; não representa experiência profissional nem um sistema de produção.
 
-## Origem e uso responsável
-
-Esta cópia privada preserva, para fins de transparência, o material de referência e a documentação original em [docs/README_entrega_original.md](docs/README_entrega_original.md). O conjunto contém dados de pessoas e material fornecido para uma avaliação técnica. Não o torne público, não redistribua os dados e não use o conteúdo como base de produção sem autorização explícita dos detentores dos dados e do material.
-
-O apoio de IA na implementação e documentação, bem como as limitações da solução, estão descritos no README original preservado e na documentação técnica.
